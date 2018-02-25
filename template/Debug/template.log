@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\viza\viza 656\realtimetemplate\template\template\main.cpp(269): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+e:\viza\viza 656\realtimetemplate\template\template\main.cpp(281): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+e:\viza\viza 656\realtimetemplate\template\template\main.cpp(392): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  shader.cpp
+  Object.cpp
+e:\viza\viza 656\realtimetemplate\template\template\object.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  template.vcxproj -> E:\VIZA\VIZA 656\realtimetemplate\template\Debug\template.exe
+  template.vcxproj -> E:\VIZA\VIZA 656\realtimetemplate\template\Debug\template.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+﻿  shader.cpp
+e:\viza\viza 656\realtimetemplate\template\viza656-template\template\shader.h(15): fatal error C1083: Cannot open include file: 'glm/mat4x4.hpp': No such file or directory
+  Object.cpp
+e:\viza\viza 656\realtimetemplate\template\viza656-template\template\object.h(7): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  main.cpp
+e:\viza\viza 656\realtimetemplate\template\viza656-template\template\main.cpp(30): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  camera.cpp
+e:\viza\viza 656\realtimetemplate\template\viza656-template\template\camera.h(10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Generating Code...
