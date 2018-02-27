@@ -9,9 +9,9 @@ IDE: visual studio 2015 <br />
 Lib: GLUT, GLEW, GLM, STB_IMAGE <br />
 SetUp: 
 (download STB_IMAGE)
-https://github.com/nothings/stb/blob/master/stb_image.h
+https://github.com/nothings/stb/blob/master/stb_image.h <br />
 (download glm)
-https://glm.g-truc.net/0.9.8/index.html
+https://glm.g-truc.net/0.9.8/index.html <br />
 
 # Implementation
 
@@ -19,6 +19,6 @@ basic camera, obj file loading, diffuse and specular reflection, shadow casting,
 
 # Reference
 
-https://learnopengl.com
+https://learnopengl.com <br />
 http://www.opengl-tutorial.org/beginners-tutorials/
 
