@@ -4,9 +4,9 @@ This is a GPU based program that includes loading OBJ file, computating diffuse 
 
 # Installation
 
-OS: Windows_
-IDE: visual studio 2015_
-Lib: GLUT, GLEW, GLM, STB_IMAGE
+OS: Windows <br />
+IDE: visual studio 2015 <br />
+Lib: GLUT, GLEW, GLM, STB_IMAGE <br />
 SetUp: 
 (download STB_IMAGE)
 https://github.com/nothings/stb/blob/master/stb_image.h
